@@ -1,5 +1,5 @@
 package chapter01.segement01
 
-fun main(args: Array<String>) {
+fun main() {
     println("Pow!")
 }
